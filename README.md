@@ -4,51 +4,65 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<img align="center" alt="Banner" src="./src/header-gif.gif">
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
-  
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. 
+  Atualmente trabalho com Go e estudo Java paralelamente.
+  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. 
+  Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+</p>
+
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="Studying GIF" height="190" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">📌 Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:anabeatrizafagundes@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:anabeatrizafagundes@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF)](https://www.instagram.com/fagundessana/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/seu-linkedin)
 
-<h3 align="left">O que estou aprendendo</h3>
+<h3 align="left">🚀 Technologies & Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="Go logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
 </div>
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>GitHub Stats</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fagundessana&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/fagundessana/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fagundessana&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fagundessana&show_icons=true&theme=jolly&include_all_commits=true&count_private=true&border_color=FF00F6" alt="GitHub Stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagundessana&layout=compact&langs_count=7&theme=jolly&border_color=FF00F6" alt="Top Languages"/>
 </div>
 
 #
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fagundessana/fagundessana/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fagundessana/fagundessana/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fagundessana/fagundessana/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagundessana&theme=jolly&border=FF00F6" alt="GitHub Streak"/>
+</div>
+
+#
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fagundessana/fagundessana/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fagundessana/fagundessana/output/github-contribution-grid-snake.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/fagundessana/fagundessana/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  </picture>
+</div>
