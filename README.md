@@ -52,11 +52,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/fagundessana/count.svg?"  />
-</div>
-
-### name: Generate snake animation
+name: Generate snake animation
 
 on:
   schedule: # execute every 12 hours
@@ -74,7 +70,8 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-steps:
+
+    steps:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -82,7 +79,7 @@ steps:
           outputs: dist/snake.svg?palette=github-dark
 
 
-   - name: push snake.svg to the output branch
+      - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
