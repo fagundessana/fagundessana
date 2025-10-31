@@ -1,3 +1,4 @@
-<img width="1748" height="1240" alt="Meu cartão de visitas" src="https://github.com/user-attachments/assets/d225b75c-527b-481b-b4fe-76d714fda0d2" />
+<img width="1584" height="396" alt="Banner linkedln" src="https://github.com/user-attachments/assets/12c51f28-2c13-45e4-96d4-03b18ef5a62d" />
+
 
 
