@@ -1,2 +1,2 @@
-<img width="1584" height="396" alt="Banner linkedln (2)" src="https://github.com/user-attachments/assets/6a62c918-fcf1-4d17-bc7b-a34dfdb6e47c" />
+<img width="1584" height="396" alt="Banner linkedln (3)" src="https://github.com/user-attachments/assets/9077667a-5a33-45e5-8f31-345fb9b46b7d" />
 
