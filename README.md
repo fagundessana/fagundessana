@@ -2,3 +2,6 @@
 
 <h1>Hey, I'm Ana Fagundes </h1>
 
+<p></p>
+
+<h2></h2>
