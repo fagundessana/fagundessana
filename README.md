@@ -28,6 +28,12 @@ My journey combines:
 
 ---
 
+<!-- Badges -->
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=fagundessana&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagundessana&layout=compact&theme=tokyonight)
+![Learning](https://img.shields.io/badge/Learning-Web%20Development-blue)
+
+
 ## 📁 Featured Projects
 
 - [**Portifólio 1 AMS**](https://github.com/fagundessana/Portifolio1AMS) – Certifications, activities, and technical visits developed throughout the course.
