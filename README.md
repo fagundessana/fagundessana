@@ -30,7 +30,7 @@ My journey combines:
 
 ## 📁 Featured Projects
 
-- [**Portfolio 1 AMS**](https://github.com/fagundessana/Portfolio1AMS) – Certifications, activities, and technical visits developed throughout the course.  
+- [**Portfolio 1 AMS**](https://github.com/fagundessana/Portifolio1AMS) – Certifications, activities, and technical visits developed throughout the course.  
 - *(More projects coming soon...)*
 
 ---
