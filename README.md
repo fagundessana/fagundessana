@@ -31,7 +31,7 @@ My journey combines:
 ## 📁 Featured Projects
 
 - [**Portifólio 1 AMS**](https://github.com/fagundessana/Portifolio1AMS) – Certifications, activities, and technical visits developed throughout the course.
-- [**Projeto Lumis - IBM**](https://github.com/Guilhermezi/lumis-sistema-limpeza-online)
+- [**Projeto Lumis - IBM**](https://github.com/Guilhermezi/lumis-sistema-limpeza-online) -– A collaborative web platform designed to connect users with cleaning services and environmental education, integrating front-end development, design principles, and programming logic.
 - *(More projects coming soon...)*
 
 ---
