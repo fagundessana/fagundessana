@@ -30,9 +30,8 @@ My journey combines:
 
 ## 📈 GitHub Stats & Badges
 
--[Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=fagundessana&show_icons=true&theme=tokyonight)
--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagundessana&layout=compact&theme=tokyonight)
-
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=fagundessana&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fagundessana&layout=compact&theme=tokyonight)
 
 ## 📁 Featured Projects
 
