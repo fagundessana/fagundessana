@@ -1,9 +1,9 @@
 <img width="1584" height="396" alt="Banner Linkedln" src="https://github.com/user-attachments/assets/bca79181-c70d-465f-baf7-c22788c636ca" />
 
-# 👋 Hello, I'm Ana Beatriz Araujo Fagundes
+#  Hello, I'm Ana Beatriz Araujo Fagundes
 
 🎓 **Student of Systems Development (AMS) | ETEC Zona Leste**  
-💻 Passionate about technology, logic, and innovation  
+💻 Passionate about technology and innovation  
 🌍 Constant learner, building today to reach the eternal  
 
 ---
@@ -30,7 +30,8 @@ My journey combines:
 
 ## 📁 Featured Projects
 
-- [**Portifólio 1 AMS**](https://github.com/fagundessana/Portifolio1AMS) – Certifications, activities, and technical visits developed throughout the course.  
+- [**Portifólio 1 AMS**](https://github.com/fagundessana/Portifolio1AMS) – Certifications, activities, and technical visits developed throughout the course.
+- [**Projeto Lumis - IBM**](https://github.com/Guilhermezi/lumis-sistema-limpeza-online)
 - *(More projects coming soon...)*
 
 ---
