@@ -4,7 +4,7 @@
 
 🎓 **Student of Systems Development (AMS) | ETEC Zona Leste**  
 💻 Passionate about technology and innovation  
-🌍 Constant learner, building today to reach the eternal  
+🌍 Constant learner, building today for a better tomorrow
 
 ---
 
