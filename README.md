@@ -10,13 +10,10 @@
 
 ## 💡 About Me
 
-I'm a student currently pursuing **Systems Development** at ETEC, where I develop projects involving **web technologies, logic, and problem solving**.  
-Beyond programming, I have a strong interest in the intersection between **science and human development**, aiming to build a multidisciplinary background that connects **technology, research, and health**.
-
-My journey combines:
-- 💻 Technical learning in **systems development**
-- 🧠 Personal projects focused on **innovation and improvement**
-- 🌐 Preparation for **international academic opportunities**
+- 🎓 Student of Systems Development at ETEC Zona Leste (P-TECH program)**
+- 💻 Focus on **web development, programming logic and UI/UX**
+- 🔬 Interested in the intersection between **technology, research and human development**
+- 🌐 Building a portfolio aiming for future **international opportunities**
 
 ---
 
@@ -31,8 +28,11 @@ My journey combines:
 
 ## 📁 Featured Projects
 
-- [**Portifólio 1 AMS**](https://github.com/fagundessana/Portifolio1AMS) – Certifications, activities, and technical visits developed throughout the course.
-- [**Projeto Lumis - IBM**](https://github.com/Guilhermezi/lumis-sistema-limpeza-online) - A collaborative web platform designed to connect users with cleaning services and environmental education, integrating front-end development, design principles, and programming logic.
+- [**Portifólio 1 AMS**](https://github.com/fagundessana/Portifolio1AMS) – Repository with certifications, activities and technical visits from the AMS course.
+
+- [**Projeto Lumis – IBM**](https://github.com/Guilhermezi/lumis-sistema-limpeza-online) – Collaborative web platform to connect users with cleaning services + environmental education.  
+  _Stack:_ HTML, CSS, JavaScript, UI/UX Design
+
 - *(More projects coming soon...)*
 
 ---
