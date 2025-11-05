@@ -2,7 +2,7 @@
 
 #  Hello, I'm Ana Fagundes | Aspiring Software Developer & Tech Enthusiast
 
-👩‍💻 Systems Development Student (P-TECH) |**ETEC Zona Leste** 
+👩‍💻 Systems Development Student (P-TECH) | **ETEC Zona Leste** 
 🚀 Passionate about technology & innovation  
 🌍 Learning today, shaping tomorrow
 
