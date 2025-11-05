@@ -1,9 +1,8 @@
 <img width="1584" height="396" alt="Banner Linkedln" src="https://github.com/user-attachments/assets/bca79181-c70d-465f-baf7-c22788c636ca" />
 
-#  Hello, I'm Ana Fagundes | Aspiring Software Developer & Tech Enthusiast
+#  Hello, I'm Ana Fagundes
 
 👩‍💻 Systems Development Student (P-TECH) | ETEC Zona Leste
-
 🚀 Passionate about technology & innovation  
 🌍 Learning today, shaping tomorrow
 
