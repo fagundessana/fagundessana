@@ -47,6 +47,6 @@
 ## 📫 Contact
 
 📍 São Paulo, Brazil  
-✉️ [Reach me on GitHub](https://github.com/fagundessana)
+✉️ [Reach me on Linkedln](https://www.linkedin.com/in/fagundessana/)
 
 ---
