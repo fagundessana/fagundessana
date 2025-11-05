@@ -2,9 +2,9 @@
 
 #  Hello, I'm Ana Fagundes
 
-👩‍💻 Systems Development Student (P-TECH) | ETEC Zona Leste
-🚀 Passionate about technology & innovation  
-🌍 Learning today, shaping tomorrow
+🎓 **Student of Systems Development (P-TECH program) | ETEC Zona Leste**  
+💻 Passionate about technology and innovation  
+🌍 Constant learner, building today for a better tomorrow
 
 ---
 
@@ -50,4 +50,3 @@
 ✉️ [Reach me on GitHub](https://github.com/fagundessana)
 
 ---
-
