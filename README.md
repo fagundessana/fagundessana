@@ -2,7 +2,7 @@
 
 #  Hello, I'm Ana Fagundes
 
-🎓 **Student of Systems Development (AMS) | ETEC Zona Leste**  
+🎓 **Student of Systems Development (P-TECH program) | ETEC Zona Leste**  
 💻 Passionate about technology and innovation  
 🌍 Constant learner, building today for a better tomorrow
 
@@ -10,7 +10,6 @@
 
 ## 💡 About Me
 
-- 🎓 Student of Systems Development at ETEC Zona Leste (P-TECH program)**
 - 💻 Focus on **web development, programming logic and UI/UX**
 - 🔬 Interested in the intersection between **technology, research and human development**
 - 🌐 Building a portfolio aiming for future **international opportunities**
